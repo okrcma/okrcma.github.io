@@ -1,0 +1,3 @@
+[submodule "chess-trainer"]
+	path = chess-trainer
+	url = https://github.com/okrcma/chess-trainer
